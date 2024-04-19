@@ -6,7 +6,10 @@ const Projects = () => {
   return (
     <section className="max-container">
       <h1 className="head-text">
-      My <span className="blue-gradient_text font-semibold drop-shadow">Projects</span>
+        My{" "}
+        <span className="blue-gradient_text font-semibold drop-shadow">
+          Projects
+        </span>
       </h1>
 
       <div className="mt-5 flex-col gap-3 text-slate-500">
