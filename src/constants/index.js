@@ -232,7 +232,7 @@ export const projects = [
     theme: "btn-back-blue",
     name: "Brainwave",
     description:
-      "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects and a bento box layout.",
+      "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects, a bento box layout, and more...",
     link: "https://brainwave.manny-teto.com/",
   },
   {
@@ -272,4 +272,3 @@ export const projects = [
     link: "",
   },
 ];
-
