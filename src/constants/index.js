@@ -233,14 +233,15 @@ export const projects = [
     theme: "btn-back-blue",
     name: "Brainwave",
     description:
-      "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects, a bento box layout, and more. Made with React, JavaScript, and tailwindcss.",
+      "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects, a bento box layout, and more. Made with React, JavaScript, and Tailwind CSS.",
     link: "https://brainwave.manny-teto.com/",
   },
   {
     iconUrl: mooz,
     theme: "btn-back-pink",
     name: "mooZ",
-    description: "A Full Stack Video Calling App made with Next.js 14, TypeScript, tailwindcss, shadcn/ui, Stream and Clerk.",
+    description:
+      "A Full Stack Video Calling App made with Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Stream and Clerk.",
     link: "https://mooz.manny-teto.com/",
   },
   {
