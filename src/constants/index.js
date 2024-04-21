@@ -19,6 +19,7 @@ import {
   javascript,
   linkedin,
   mongodb,
+  mooz,
   nextjs,
   nodejs,
   react,
@@ -232,16 +233,15 @@ export const projects = [
     theme: "btn-back-blue",
     name: "Brainwave",
     description:
-      "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects, a bento box layout, and more...",
+      "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects, a bento box layout, and more. Made with React, JavaScript, and tailwindcss.",
     link: "https://brainwave.manny-teto.com/",
   },
   {
-    iconUrl: snapgram,
+    iconUrl: mooz,
     theme: "btn-back-pink",
-    name: "Meme-a-gram",
-    description:
-      "An Instagram clone allowing users to share photos and connect with friends in a familiar social media environment. And infinite scrolling... because why not... 😎",
-    link: "",
+    name: "mooZ",
+    description: "A Full Stack Video Calling App made with Next.js 14, TypeScript, tailwindcss, shadcn/ui, Stream and Clerk.",
+    link: "https://mooz.manny-teto.com/",
   },
   {
     iconUrl: snapgram,
