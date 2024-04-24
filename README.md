@@ -1,2 +1,1 @@
-# portfolio
-3D Portfolio in React with Three.js
+3D Portfolio in React, Three.js (React Three Fiber), and Tailwind CSS.
