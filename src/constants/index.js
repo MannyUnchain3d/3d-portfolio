@@ -16,6 +16,7 @@ import {
   git,
   github,
   html,
+  iphone,
   javascript,
   linkedin,
   mongodb,
@@ -245,11 +246,12 @@ export const projects = [
     link: "https://mooz.manny-teto.com/",
   },
   {
-    iconUrl: snapgram,
-    theme: "btn-back-red",
-    name: "TBA(0)",
-    description: "Work in progress...",
-    link: "",
+    iconUrl: iphone,
+    theme: "btn-back-yellow",
+    name: "iPhone 15 Pro",
+    description:
+      "A responsive iPhone 15 Pro landing page with smooth animations and clean look. Made with React, Three.js (React Three Fiber), GSAP, and Tailwind CSS.",
+    link: "https://iphone.manny-teto.com/",
   },
   {
     iconUrl: snapgram,

@@ -7,6 +7,7 @@ import express from "./express.svg";
 import git from "./git.svg";
 import github from "./github.svg";
 import html from "./html.svg";
+import iphone from "./iphone.gif";
 import javascript from "./javascript.svg";
 import mongodb from "./mongodb.svg";
 import mooz from "./mooz.gif";
@@ -35,6 +36,7 @@ export {
   git,
   github,
   html,
+  iphone,
   javascript,
   mongodb,
   mooz,
