@@ -1,1 +1,3 @@
-3D Portfolio in React, Three.js (React Three Fiber), and Tailwind CSS.
+My 3D Portfolio made with React, Three.js, and Tailwind CSS.
+
+(Original tutorial project from: https://www.jsmastery.pro/)
