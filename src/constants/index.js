@@ -16,6 +16,7 @@ import {
   git,
   github,
   html,
+  impressa,
   iphone,
   javascript,
   linkedin,
@@ -238,20 +239,28 @@ export const projects = [
     link: "https://brainwave.manny-teto.com/",
   },
   {
-    iconUrl: mooz,
-    theme: "btn-back-pink",
-    name: "mooZ",
-    description:
-      "A Full Stack Video Calling App made with Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Stream and Clerk.",
-    link: "https://mooz.manny-teto.com/",
-  },
-  {
     iconUrl: iphone,
     theme: "btn-back-yellow",
     name: "iPhone 15 Pro",
     description:
       "A responsive iPhone 15 Pro landing page with smooth animations and clean look. Made with React, Three.js (React Three Fiber), GSAP, and Tailwind CSS.",
     link: "https://iphone.manny-teto.com/",
+  },
+  {
+    iconUrl: impressa,
+    theme: "btn-back-green",
+    name: "Impressa",
+    description:
+      "AI-powered image processing SaaS platform. Built with Next.js, TypeScript, and MongoDB. Integrates Stripe for payments and Cloudinary for image transformations",
+    link: "https://impressa.manny-teto.com/",
+  },
+  {
+    iconUrl: mooz,
+    theme: "btn-back-pink",
+    name: "mooZ",
+    description:
+      "A Full Stack Video Calling App made with Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Stream and Clerk.",
+    link: "https://mooz.manny-teto.com/",
   },
   {
     iconUrl: snapgram,
@@ -264,13 +273,6 @@ export const projects = [
     iconUrl: snapgram,
     theme: "btn-back-red",
     name: "TBA(2)",
-    description: "Work in progress...",
-    link: "",
-  },
-  {
-    iconUrl: snapgram,
-    theme: "btn-back-red",
-    name: "TBA(3)",
     description: "Work in progress...",
     link: "",
   },
