@@ -138,14 +138,14 @@ export const experiences = [
     company_name: "42 Bangkok",
     icon: fortytwo,
     iconBg: "#323232",
-    date: "February 2022 - present",
+    date: "February 2022 - February 2024",
     city: "Bangkok, Thailand",
     url: "https://www.42bangkok.com/",
     points: [
-      "Collaborating on 'ft_transcendence' a full-stack web application project featuring a real-time multiplayer game. My role involves coding the game's core functionality using JavaScript and leveraging the Three.js library to implement 3D graphics.",
-      "Building 'Webserv' in C++, designing a web server that efficiently handles HTTP requests and supports concurrent connections, enhancing my knowledge of network programming and server management.",
+      "Collaborated on 'ft_transcendence' a full-stack web application project featuring a real-time multiplayer game. My role involved coding the game's core functionality using JavaScript and leveraging the Three.js library to implement 3D graphics.",
+      "Built 'Webserv' in C++, a web server project that efficiently handles HTTP requests and supports concurrent connections, enhancing my knowledge of network programming and server management.",
       "Developed 'Cub3D', a 3D perspective rendering project in C with MiniLibX, applying ray-casting to simulate a 3D environment from 2D map data, similar to the original Wolfenstein 3D game.",
-      "Implemented 'Inception' using Docker, setting up a multi-service architecture to explore containerization and networking, advancing my DevOps skills.",
+      "Implemented 'Inception' using Docker, a multi-service architecture project to explore containerization and networking, advancing my DevOps skills.",
     ],
   },
   {
@@ -231,6 +231,20 @@ export const socialLinks = [
 
 export const projects = [
   {
+    iconUrl: snapgram,
+    theme: "btn-back-red",
+    name: "TBA(1)",
+    description: "Work in progress...",
+    link: "",
+  },
+  {
+    iconUrl: snapgram,
+    theme: "btn-back-red",
+    name: "TBA(2)",
+    description: "Work in progress...",
+    link: "",
+  },
+  {
     iconUrl: brainwave,
     theme: "btn-back-blue",
     name: "Brainwave",
@@ -261,19 +275,5 @@ export const projects = [
     description:
       "A Full Stack Video Calling App made with Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Stream and Clerk.",
     link: "https://mooz.manny-teto.com/",
-  },
-  {
-    iconUrl: snapgram,
-    theme: "btn-back-red",
-    name: "TBA(1)",
-    description: "Work in progress...",
-    link: "",
-  },
-  {
-    iconUrl: snapgram,
-    theme: "btn-back-red",
-    name: "TBA(2)",
-    description: "Work in progress...",
-    link: "",
   },
 ];
