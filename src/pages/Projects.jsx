@@ -15,7 +15,7 @@ const Projects = () => {
       <div className="mt-5 flex-col gap-3 text-slate-500">
         <p>
           These project are a straightforward application of my current
-          understanding of modern web and game development principles. Moving
+          understanding of game development principles, and modern web. Moving
           forward, my focus is on deepening my proficiency with Unreal Engine 5,
           aiming to broaden my knowledge in game mechanics, game design,
           storytelling and digital art, in order to create more immersive and
