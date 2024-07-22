@@ -14,6 +14,8 @@ import mongodb from "./mongodb.svg";
 import mooz from "./mooz.gif";
 import nextjs from "./nextjs.svg";
 import nodejs from "./nodejs.svg";
+import megamania from "./megamania.gif";
+import pirateplatformer from "./pirateplatformer.gif";
 import react from "./react.svg";
 import tailwindcss from "./tailwindcss.svg";
 import typescript from "./typescript.svg";
@@ -44,6 +46,8 @@ export {
   mooz,
   nextjs,
   nodejs,
+  megamania,
+  pirateplatformer,
   react,
   tailwindcss,
   typescript,

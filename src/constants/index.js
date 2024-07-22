@@ -24,6 +24,8 @@ import {
   mooz,
   nextjs,
   nodejs,
+  megamania,
+  pirateplatformer,
   react,
   snapgram,
   tailwindcss,
@@ -231,18 +233,21 @@ export const socialLinks = [
 
 export const projects = [
   {
-    iconUrl: snapgram,
+    iconUrl: pirateplatformer,
     theme: "btn-back-red",
-    name: "TBA(1)",
-    description: "Work in progress...",
-    link: "",
+    name: "Pirate Platformer",
+    description:
+      "Showcasing the integration of 2D pixel art with 3D backgrounds in Unreal Engine, featuring advanced animation techniques, dynamic AI, and Metroidvania-style gameplay mechanics.",
+    link: "https://www.youtube.com/embed/vH-2KVxWD8s",
+    isYoutube: true,
   },
   {
-    iconUrl: snapgram,
-    theme: "btn-back-red",
-    name: "TBA(2)",
-    description: "Work in progress...",
-    link: "",
+    iconUrl: megamania,
+    theme: "btn-back-black",
+    name: "Megamania",
+    description: "Showcasing the creation of a 2D action platformer like Mega Man in Unreal Engine, including sprite sheets, character abilities, enemy AI, and dynamic level design using best practices.",
+    link: "https://www.youtube.com/embed/nIqwR7lt_9M",
+    isYoutube: true,
   },
   {
     iconUrl: brainwave,
@@ -251,6 +256,7 @@ export const projects = [
     description:
       "A modern and stylish UX/UI responsive landing page for a fictional AI chatbot. The page features sleek parallax effects, a bento box layout, and more. Made with React, JavaScript, and Tailwind CSS.",
     link: "https://brainwave.manny-teto.com/",
+    isYoutube: false,
   },
   {
     iconUrl: iphone,
@@ -259,6 +265,7 @@ export const projects = [
     description:
       "A responsive iPhone 15 Pro landing page with smooth animations and clean look. Made with React, Three.js (React Three Fiber), GSAP, and Tailwind CSS.",
     link: "https://iphone.manny-teto.com/",
+    isYoutube: false,
   },
   {
     iconUrl: impressa,
@@ -267,6 +274,7 @@ export const projects = [
     description:
       "AI-powered image processing SaaS platform. Built with Next.js, TypeScript, and MongoDB. Integrates Stripe for payments and Cloudinary for image transformations",
     link: "https://impressa.manny-teto.com/",
+    isYoutube: false,
   },
   {
     iconUrl: mooz,
@@ -275,5 +283,6 @@ export const projects = [
     description:
       "A Full Stack Video Calling App made with Next.js 14, TypeScript, Tailwind CSS, shadcn/ui, Stream and Clerk.",
     link: "https://mooz.manny-teto.com/",
+    isYoutube: false,
   },
 ];
