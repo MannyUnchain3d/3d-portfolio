@@ -4,7 +4,7 @@ import { projects } from "../constants";
 import CTA from "../components/CTA";
 
 // Set the app element for accessibility purposes
-Modal.setAppElement('#root');
+Modal.setAppElement("#root");
 
 const Projects = () => {
   const [modalIsOpen, setModalIsOpen] = useState(false);
@@ -42,9 +42,7 @@ const Projects = () => {
         </div>
       </div>
       <div className="mt-5 flex flex-col">
-        <h4 className="text-2xl font-poppins font-semibold">
-          {project.name}
-        </h4>
+        <h4 className="text-2xl font-poppins font-semibold">{project.name}</h4>
         <p className="mt-5 flex items-center gap-2 font-poppins">
           {project.description}
         </p>
@@ -64,10 +62,10 @@ const Projects = () => {
         <p>
           These projects are a straightforward application of my current
           understanding of game development principles and modern web. Moving
-          forward, my focus is on deepening my proficiency with Unreal Engine 5,
-          aiming to broaden my knowledge in game mechanics, game design,
-          storytelling, and digital art, in order to create more immersive and
-          engaging experiences.
+          forward, my focus is on deepening my proficiency with Unreal Engine
+          and Unity, aiming to broaden my knowledge in game mechanics, game
+          design, storytelling, and digital art, in order to create more
+          immersive and engaging experiences.
         </p>
       </div>
       <div className="flex flex-wrap my-20 gap-16">
